@@ -54,12 +54,9 @@ app/
 ---
 
 ## 🖼️ Aperçu de l’application
+![4db2c8b6-cd84-4605-996a-014d61976d18](https://github.com/user-attachments/assets/c66abb03-3871-44ad-b1f4-74f0514a79c4)![2fd2d95e-f8c3-40f4-a97f-a921670c4e93](https://github.com/user-attachments/assets/bb024cda-bbf7-4060-b052-45acd738909e)
 
-| Liste | Sélection | Grille |
-|:-----:|:----------:|:------:|
-| ![Liste](https://via.placeholder.com/200x350.png?text=Liste) | ![Sélection](https://via.placeholder.com/200x350.png?text=Sélection) | ![Grille](https://via.placeholder.com/200x350.png?text=Grille) |
-
-*(Remplace ces images par des captures réelles de ton app)*
+![e8b54289-6d53-4537-9270-a1eea2e22046](https://github.com/user-attachments/assets/d3d57272-ebdf-4064-be6e-13cf02feaa2d)
 
 ---
 
@@ -89,6 +86,3 @@ app/
 💬 Passionnée par la création d’applications interactives et l’apprentissage du développement Android.
 
 ---
-
-## 🐾 Licence
-Ce projet est open-source et libre d’utilisation pour l’apprentissage et la pratique du développement Android.
